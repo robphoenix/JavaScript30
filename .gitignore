@@ -3,3 +3,10 @@ node_modules/
 *.log
 haters/
 .idea/
+
+PULL_REQUEST_TEMPLATE.md
+
+0[2-9]*/
+1[0-9]*/
+2[0-9]*/
+30*/
